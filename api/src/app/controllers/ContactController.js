@@ -7,15 +7,15 @@ class ContactController {
     res.json(contacts);
   }
 
-  show() {}
+  show() { }
 
-  store() {}
+  store() { }
 
   uptdate() {
 
   }
 
-  delete() {}
+  delete() { }
 }
 
 module.exports = new ContactController();
